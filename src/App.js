@@ -11,6 +11,7 @@ function App() {
           <li><NavLink to=''>Contact</NavLink></li>
           <li><NavLink to='/home'>Home</NavLink></li>
           <li><NavLink to='/home'>Sweet Home</NavLink></li>
+          <li><NavLink to='/home'>Home Home</NavLink></li>
 
         </ul>
       </nav>
