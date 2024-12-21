@@ -1,0 +1,30 @@
+.App{
+  max-width: 1200px;
+  margin: auto;
+  
+}
+.App nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul{
+  display: flex;
+}
+
+nav ul li{
+  margin: 0px 20px;
+  list-style-type: none;
+}
+
+
+a{
+  text-decoration: none;
+  color: #555555;
+}
+
+a.active{
+  color: aqua;
+}
+

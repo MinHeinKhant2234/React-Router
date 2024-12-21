@@ -1,0 +1,30 @@
+{
+    "blogs" : [
+        {
+          "title": "The Evolution of JavaScript",
+          "author": "Alex Carter",
+          "body": "JavaScript has transformed from a simple scripting language to a powerful tool for building modern web applications. This blog explores its journey from Netscape to Node.js."
+        },
+        {
+          "title": "Understanding Matrix Factorization",
+          "author": "Dr. Priya Kapoor",
+          "body": "Matrix Factorization is a core concept in recommendation systems. This post simplifies the math and dives into practical applications in collaborative filtering."
+        },
+        {
+          "title": "5 Tips for Better Photography",
+          "author": "Liam Jackson",
+          "body": "Whether you're a beginner or a pro, these 5 tips can help you capture stunning photos. From lighting to composition, learn how to take your skills to the next level."
+        },
+        {
+          "title": "Mastering Time Management",
+          "author": "Sophia Lee",
+          "body": "Time management is essential in today’s fast-paced world. Discover strategies to prioritize your tasks and achieve a better work-life balance."
+        },
+        {
+          "title": "A Beginner's Guides",
+          "author": "Ravi Sharma",
+          "body": "Session-based recommendations focus on the context of a user session. This guide explains the basics and offers practical examples to get you started."
+        }
+      ]
+      
+}
